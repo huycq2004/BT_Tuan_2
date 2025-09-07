@@ -13,7 +13,7 @@ Mở **terminal / cmd** và chạy lần lượt:
 
 git lfs install
 git clone https://github.com/huycq2004/BT_Tuan_2.git
-cd BT_Tuan_1
+cd BT_Tuan_2
 git lfs pull
 git lfs checkout
 
